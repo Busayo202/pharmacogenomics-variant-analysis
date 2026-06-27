@@ -1,0 +1,6 @@
+Gene,Drug,Clinical_Concern
+CYP2D6,Codeine,Poor metabolism
+CYP2C19,Clopidogrel,Reduced efficacy
+TPMT,Azathioprine,Myelosuppression risk
+DPYD,Fluorouracil,Severe toxicity
+SLCO1B1,Simvastatin,Myopathy risk
